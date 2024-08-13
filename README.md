@@ -13,7 +13,7 @@ Este es un proyecto de encriptador de texto desarrollado como parte de los curso
 El proyecto está compuesto por los siguientes archivos:
 
 - `index.html`: Contiene la estructura HTML de la aplicación.
-- `style.css`: Contiene los estilos CSS para la aplicación.
+- `styles.css`: Contiene los estilos CSS para la aplicación.
 - `script.js`: Contiene la lógica JavaScript para la encriptación y desencriptación del texto.
 - `assets`: Contiene la las imagenes usadas en el proyecto.
 
