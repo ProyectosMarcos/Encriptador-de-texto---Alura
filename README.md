@@ -4,11 +4,11 @@
 
 ## Características
 
-- <b>Encriptar texto:</b>Convierte el texto ingresado en un formato encriptado utilizando una contraseña definida por el usuario.
+- <b>Encriptar texto:</b> Convierte el texto ingresado en un formato encriptado utilizando una contraseña definida por el usuario.
 
-- <b>Desencriptar texto:</b>Convierte el texto encriptado de vuelta a su formato original utilizando la misma contraseña.
+- <b>Desencriptar texto:</b> Convierte el texto encriptado de vuelta a su formato original utilizando la misma contraseña.
 
-- <b>Copiar al portapapeles:</b>Permite copiar el texto encriptado o desencriptado al portapapeles con un solo clic.
+- <b>Copiar al portapapeles:</b> Permite copiar el texto encriptado o desencriptado al portapapeles con un solo clic.
 
 ### Estructura del proyecto
 
