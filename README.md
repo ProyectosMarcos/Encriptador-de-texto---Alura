@@ -1,4 +1,4 @@
-##Encriptador de texto
+## Encriptador de texto - Alura Latam
 
 - Proyecto de encriptador de texto como parte de los cursos de Alura Latam. Permite encriptar y desencriptar texto por el usuario. El proyecto fue creado por Marcos Fernandez
 
