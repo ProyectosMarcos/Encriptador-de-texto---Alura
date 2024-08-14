@@ -1,6 +1,6 @@
 # Encriptador de Texto
 
-Este es un proyecto de encriptador de texto desarrollado como parte de los cursos de Alura Latam. Permite encriptar y desencriptar texto con una contraseña definida por el usuario. El proyecto fue creado por Fernando Tomé.
+Este es un proyecto de encriptador de texto desarrollado como parte de los cursos de Alura Latam. Permite encriptar y desencriptar texto con una contraseña definida por el usuario.
 
 ## Características
 
